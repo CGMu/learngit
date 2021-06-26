@@ -6,3 +6,5 @@ My stupid boss still prefers SVN.
 This is learngit repository! 
 
 Add comments here.
+
+Add author=alfredMu.
