@@ -8,3 +8,5 @@ This is learngit repository!
 Add comments here.
 
 Add author=alfredMu.
+
+Modified in ../subGit!
